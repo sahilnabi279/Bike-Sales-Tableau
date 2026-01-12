@@ -50,8 +50,6 @@ It is designed to help stakeholders quickly understand **revenue drivers, profit
 ## 🛠 Tools & Technologies Used
 - **Tableau** – Dashboard development & visualization  
 - **Excel / CSV** – Data source  
-- **GitHub** – Project hosting & version control  
-
 ---
 
 ## 📁 Repository Structure
