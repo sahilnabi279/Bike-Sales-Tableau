@@ -7,6 +7,9 @@ The dashboard provides insights into sales performance, customer demographics, p
 It is designed to help stakeholders quickly understand **revenue drivers, profit trends, and customer behavior** for data-driven decision making.
 
 ---
+## 🔗 Live Dashboard To view the live interactive dashboard [click here](https://public.tableau.com/app/profile/sahil.nabi/viz/BikeSalesAnalysis_17681991284510/SalesDashboard?publish=yes)
+
+---
 
 ## 📊 Key Business Metrics
 - **Total Revenue**
@@ -54,3 +57,7 @@ It is designed to help stakeholders quickly understand **revenue drivers, profit
 
 ## 📁 Repository Structure
 # Bike-Sales-Tableau
+
+---
+
+## 👤 Author **Sahil Nabi** - Tableau Public: https://public.tableau.com/app/profile/sahil.nabi
