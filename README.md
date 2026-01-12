@@ -7,6 +7,14 @@ The dashboard provides insights into sales performance, customer demographics, p
 It is designed to help stakeholders quickly understand **revenue drivers, profit trends, and customer behavior** for data-driven decision making.
 
 ---
+## 📷 Dashboard Preview
+![Dashboard Screenshot](screenshots/1.jpeg)
+![Dashboard Screenshot](screenshots/2.jpeg)
+
+
+
+---
+
 ## 🔗 Live Dashboard To view the live interactive dashboard [click here](https://public.tableau.com/app/profile/sahil.nabi/viz/BikeSalesAnalysis_17681991284510/SalesDashboard?publish=yes)
 
 ---
