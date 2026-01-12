@@ -8,8 +8,8 @@ It is designed to help stakeholders quickly understand **revenue drivers, profit
 
 ---
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Bike-Sales-Tableau/screenshots/1.jpeg)
-![Dashboard Screenshot](Bike-Sales-Tableau/screenshots/2.jpeg)
+![Dashboard Screenshot](/screenshots/1.jpeg)
+![Dashboard Screenshot](/screenshots/2.jpeg)
 
 
 
